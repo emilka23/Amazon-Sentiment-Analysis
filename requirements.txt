@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+tf-keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
