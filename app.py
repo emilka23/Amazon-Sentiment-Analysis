@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/13z8e_-zVg5A_ZpPl5FMLecj-fD28uKCk
 """
 
-!pip install streamlit
-
 import streamlit as st
 from transformers import pipeline
 
