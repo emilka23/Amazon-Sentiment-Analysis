@@ -16,7 +16,7 @@ The final solution is fine-tuned to classify customer feedback into **Negative**
 * **Interactive Deployment:** Real-time inference via a **Streamlit** dashboard integrated with the **Hugging Face Hub**.
 
 ## 📊 Dataset
-The project uses the **Amazon Fine Food Reviews** dataset.
+The project uses the **[Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)** dataset.
 * **Initial size:** ~568k reviews.
 * **Processing:** Removed duplicates and handled significant class imbalance through undersampling to create a balanced dataset of 15,000 samples.
 
